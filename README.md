@@ -36,4 +36,4 @@ Each entry contains the findings I reported, with proof-of-concept (PoC) tests w
 
 These reviews are produced for educational and portfolio purposes to demonstrate my smart contract security skills and experience.
 
-- GitHub: [@sleepycat12341013-boop](https://github.com/sleepycat12341013-boop)
+- GitHub: [@sleepycat12341013](https://github.com/sleepycat12341013)
