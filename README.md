@@ -11,7 +11,7 @@ Each entry contains the findings I reported, with proof-of-concept (PoC) tests w
 
 | First Flight | Type | Findings | Report |
 |--------------|------|----------|--------|
-| [2023-10 PasswordStore](./2023-10-PasswordStore/) | Access control / On-chain privacy | 🔴 2 High | [EN](./2023-10-PasswordStore/findings-report.md) · [JP](./2023-10-PasswordStore/findings-report-jp.md) |
+| [2023-10 PasswordStore](./2023-10-PasswordStore/) | Access control / On-chain privacy | 🔴 2 High | [EN](./2023-10-PasswordStore/findings-report.md) · [JP](./2023-10-PasswordStore/findings-report-jp.md) · [PoC](./2023-10-PasswordStore/PasswordStore.t.poc.sol) |
 
 <!-- Add new First Flights as new rows above. -->
 
